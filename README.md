@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ganesh 👋  
+### B.Tech CSE (AI & ML) | Aspiring AI/ML Engineer
 
-<!--
-**Ganeshkurella/Ganeshkurella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building skills in Machine Learning, Deep Learning, and Data Science through hands-on projects, certifications, and internships.  
+Currently preparing for internships like IBM SkillsBuild, Infosys InStep, and Google STEP.
 
-Here are some ideas to get you started:
+### 🔧 Skills  
+- **Languages:** Python, Java  
+- **ML & Data:** NumPy, Pandas, Matplotlib, Scikit-learn  
+- **Deep Learning:** TensorFlow / Keras (beginner)  
+- **Tools:** Git, Jupyter Notebook, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📘 Current Focus
+- Implementing ML algorithms from scratch  
+- End-to-end ML projects  
+- Learning NLP & Computer Vision  
+
+---
+
+⭐ **Let’s connect:**  
+**LinkedIn:** www.linkedin.com/in/ganesh-kurella-168056332  
+**Email:** kurellaganesh123@gmail.com  
