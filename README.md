@@ -6,14 +6,12 @@ Currently preparing for internships like IBM SkillsBuild, Infosys InStep, and Go
 
 ### 🔧 Skills  
 - **Languages:** Python, Java  
-- **ML & Data:** NumPy, Pandas, Matplotlib, Scikit-learn  
 - **Deep Learning:** TensorFlow / Keras (beginner)  
 - **Tools:** Git, Jupyter Notebook, VS Code  
 
 ### 📘 Current Focus
 - Implementing ML algorithms from scratch  
-- End-to-end ML projects  
-- Learning NLP & Computer Vision  
+- Learning Computer Vision  
 
 ---
 
