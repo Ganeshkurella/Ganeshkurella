@@ -1,20 +1,24 @@
-# Hi, I'm Ganesh 👋  
-### B.Tech CSE (AI & ML) | Aspiring AI/ML Engineer
+# 💫 About Me:
+# Hey, I'm Ganesh 👋<br><br>🚀 BTech CSE (AI & ML) student focused on building intelligent, real-world systems that combine AI, automation, computer vision, and modern web technologies.<br><br>⚡ I enjoy creating projects that go beyond basic CRUD applications — from real-time gesture recognition systems and phishing detection platforms to AI-powered automation concepts and problem-solving tools.<br><br>🧠 Currently exploring:<br>- Artificial Intelligence & Machine Learning<br>- Computer Vision<br>- AI Automation Systems<br>- Cybersecurity-Oriented AI Solutions<br>- Full-Stack Development<br>- Real-Time Interactive Applications<br><br>🏗️ Featured Projects:<br>- GestureX — Real-time hand gesture & sign recognition engine<br>- Phishield — AI-powered phishing detection & threat analysis platform<br>- AI-based automation and intelligent assistant concepts<br><br>🎯 Goals:<br>- Build impactful AI systems<br>- Participate in elite hackathons<br>- Contribute to meaningful tech innovation<br>- Grow into a high-level AI engineer capable of solving real-world problems at scale<br><br>⚙️ Tech Stack:<br>Python • JavaScript • React • Node.js • OpenCV • TensorFlow • MediaPipe • HTML • CSS • Git • GitHub<br><br>📈 Always learning, building, improving, and pushing toward bigger challenges.
 
-I'm building skills in Machine Learning, Deep Learning, and Data Science through hands-on projects, certifications, and internships.  
-Currently preparing for internships like IBM SkillsBuild, Infosys InStep, and Google STEP.
 
-### 🔧 Skills  
-- **Languages:** Python, Java  
-- **Deep Learning:** TensorFlow / Keras (beginner)  
-- **Tools:** Git, Jupyter Notebook, VS Code  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ganesh-kurella-168056332) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kurellaganesh123@gmail.com) 
 
-### 📘 Current Focus
-- Implementing ML algorithms from scratch  
-- Learning Computer Vision  
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Ganeshkurella&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Ganeshkurella&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ganeshkurella&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ganeshkurella&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ganeshkurella&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Ganeshkurella&icon=0&color=0)](https://visitcount.itsvg.in)
 
-⭐ **Let’s connect:**  
-**LinkedIn:** www.linkedin.com/in/ganesh-kurella-168056332  
-**Email:** kurellaganesh123@gmail.com  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
